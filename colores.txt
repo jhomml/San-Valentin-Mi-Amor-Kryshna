@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-1-hex { color: #F29BA2; }
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-2-hex { color: #F26D85; }
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-3-hex { color: #F2DCE2; }
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-4-hex { color: #7EA672; }
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-5-hex { color: #734439; }
+
+/* Color Theme Swatches in RGBA */
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-1-rgba { color: rgba(242, 155, 162, 1); }
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-2-rgba { color: rgba(242, 109, 133, 1); }
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-3-rgba { color: rgba(242, 220, 226, 1); }
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-4-rgba { color: rgba(125, 165, 114, 1); }
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-5-rgba { color: rgba(114, 67, 57, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-1-hsla { color: hsla(354, 77, 77, 1); }
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-2-hsla { color: hsla(348, 83, 68, 1); }
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-3-hsla { color: hsla(343, 46, 90, 1); }
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-4-hsla { color: hsla(106, 22, 54, 1); }
+.Beautiful-composition-spring-flowers.-Bouquet-of-pink-tulips-flowers-on-pastel-pink-background.-Valentine's-Day,-Easter,-Birthday,-Happy-Women's-Day,-Mother's-Day.-Flat-lay,-top-view,-copy-space-5-hsla { color: hsla(11, 33, 33, 1); }

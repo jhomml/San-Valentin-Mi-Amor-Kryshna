@@ -1,7 +1,13 @@
+// Parte 2 //
 window.onload = function() {
     setTimeout(function() {
         let loadingScreen = document.getElementById('loading-screen');
+        let loadingImg = document.getElementById('loading-img');
         let content = document.getElementById('content');
+        
+        setTimeout(() => {
+            loadingImg.style.opacity = '1';
+        }, 100);
 
         //  Aplicar la pantalla de carga
         loadingScreen.style.opacity = '0';
@@ -15,17 +21,5 @@ window.onload = function() {
                 content.style.transform = 'translateY(0)';
             }, 50);
         }, 1000); 
-    }, 50); // duracion de eva //
+    }, 1000); // duracion de eva //
 };
-
-document.addEventListener("DOMContentLoaded", function() {
-    const button = document.getElementById("boton");
-    
-    button.addEventListener("click", function() {
-        if (button.click) {
-            setTimeout(() => {
-                window.location.href = "parte2.html";
-            }, 1000); 
-        }
-    });
-});
