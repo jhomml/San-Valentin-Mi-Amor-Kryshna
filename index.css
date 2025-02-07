@@ -6,8 +6,7 @@
         background-color: #F29BA2;
     }
 }
-
-     /* Estilos para la pantalla de carga */
+    /* Pantalla de carga bb */
      .loading-screen {
         display: flex;
         opacity: 1;
@@ -15,21 +14,38 @@
         justify-content: center;
         align-items: center;
     }
-    /* Ocultar el contenido hasta que la pantalla de carga desaparezca */
-    .content {
-        opacity: 0;
-        display: none;
-        color: #F2DCE2;
-        transform: translateY(100px);
-        transition: opacity 1s ease-in-out, transform 1s ease-in-out;
+    /* contenido que está en esta pantalla */
+  .content {
+    margin-top: 50px;
+    opacity: 0;
+    display: none;
+    color: #F2DCE2;
+    transform: translateY(100px);
+    transition: opacity 1s ease-in-out, transform 1s ease-in-out;
     }
   .content p{
     color: #F2DCE2;
     font-size: 20px;
-  }
-  .content img {
+    width: 100%;
     text-align: center;
   }
+  .content img {
+   max-width: 100%;
+   height: auto;
+  }
+
+  .gif1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Aquí abajo el boton */
+
+
+
+
+  /* fin de boton */
 
 /* EVA*/ 
 .modelViewPort {
