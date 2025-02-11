@@ -1,0 +1,15 @@
+@media (max-width: 600px) {
+    body {
+        background-color: #F29BA2;
+    }
+}
+
+.content {
+    font-family: 'Playfair Display';
+    margin-top: 50px;
+    opacity: 0;
+    display: none;
+    color: #F2DCE2;
+    transform: translateY(100px);
+    transition: opacity 1s ease-in-out, transform 1s ease-in-out;
+    }
