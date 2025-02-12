@@ -49,9 +49,9 @@
   } 
   button {
     background-color: #734439;
-    top: 100%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 0%;
+    right: 50%;
+    transform: translate(-60%, -60%);
     position: relative;
     list-style: none;
     width: 60px;
