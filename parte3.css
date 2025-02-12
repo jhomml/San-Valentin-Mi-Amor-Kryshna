@@ -46,7 +46,8 @@
   } 
   button {
     background-color: #734439;
-    top: 50%;
+    top: 0%;
+    left: 30px;
     transform: translate(-50%, -50%);
     position: relative;
     list-style: none;
