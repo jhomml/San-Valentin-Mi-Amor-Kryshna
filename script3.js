@@ -15,7 +15,7 @@ window.onload = function() {
                 content.style.transform = 'translateY(0)';
             }, 50);
         }, 1000); 
-    }, 500); // duracion de la pantalla de carga //
+    }, 2000); // duracion de la pantalla de carga //
 };
 
 document.addEventListener("DOMContentLoaded", function() {
