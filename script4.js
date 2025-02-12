@@ -15,7 +15,7 @@ window.onload = function() {
                 content.style.transform = 'translateY(0)';
             }, 50);
         }, 1000); 
-    }, 5000); // duracion de eva //
+    }, 500); // duracion de la pantalla de carga //
 };
 
 document.addEventListener("DOMContentLoaded", function() {
@@ -24,9 +24,8 @@ document.addEventListener("DOMContentLoaded", function() {
     button.addEventListener("click", function() {
         if (button.click) {
             setTimeout(() => {
-                window.location.href = "parte2.html";
+                window.location.href = "parte5.html";
             }, 1000); 
         }
     });
 });
-

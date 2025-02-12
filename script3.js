@@ -17,3 +17,15 @@ window.onload = function() {
         }, 1000); 
     }, 500); // duracion de la pantalla de carga //
 };
+
+document.addEventListener("DOMContentLoaded", function() {
+    const button = document.getElementById("boton");
+    
+    button.addEventListener("click", function() {
+        if (button.click) {
+            setTimeout(() => {
+                window.location.href = "parte4.html";
+            }, 1000); 
+        }
+    });
+});

@@ -29,13 +29,16 @@
     text-align: center;
     font-family: 'Playfair Display';
 }
-.gif{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    }
 
-/* BOTON */
+
+.gif{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+    /* BOTON */
 /* Aquí abajo el boton */
 .boton{
     text-align: center;
@@ -137,7 +140,6 @@
     transform: scale(1);
     transition-delay: 0.25s;
   }
-
 
 
  /* Pantalla de carga bb */
