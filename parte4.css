@@ -51,6 +51,7 @@
   } 
     /* BOTON */
     button{
+      font-family: 'Playfair Display';
       background-color: #734439;
       position: relative;
       list-style: none;
