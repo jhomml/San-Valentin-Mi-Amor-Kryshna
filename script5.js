@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
     button.addEventListener("click", function() {
         if (button.click) {
             setTimeout(() => {
-                window.location.href = "parte5.html";
+                window.location.href = "index.html";
             }, 1000); 
         }
     });

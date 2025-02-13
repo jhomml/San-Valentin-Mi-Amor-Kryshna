@@ -29,11 +29,13 @@
     text-align: center;
     font-family: 'Playfair Display';
 }
-.gif{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    }
+.gif1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  bottom: -90px;
+  }
 
 /* BOTON */
 /* Aquí abajo el boton */
@@ -42,7 +44,7 @@
   justify-content: center;
   align-items: center;
   position: absolute;
-  bottom: -90px;
+  bottom: 190px;
   left: 50%;
   transform: translateX(-50%);
   width: 100%;
